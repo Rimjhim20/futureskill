@@ -5,3 +5,21 @@ Here I created restaurant website named as Foodies that helps the customer to fi
 
 #Home page
 ![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/home.png)
+
+#About page
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/about.png)
+
+
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/about1.png)
+
+#Contact page
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/contact.png)
+
+#Footer page
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/footer.png)
+
+#Menu page
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/menu.png)
+
+#Darkk Theme
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/darktheme.png)
