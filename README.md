@@ -4,4 +4,4 @@ Here I created restaurant website named as Foodies that helps the customer to fi
 #my website link:  https://polite-water-0a8f2e610.1.azurestaticapps.net/
 
 #Home page
-[](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/home.png)
+![](https://github.com/Rimjhim20/futureskill/blob/master/assets/projectss/home.png)
